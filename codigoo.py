@@ -1,3 +1,4 @@
+# importante no olviden instalar el paquete de pyautogui o no les va a servir el codigo
 from unittest import addModuleCleanup
 import pyautogui, webbrowser
 from time import sleep
